@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88ce42b2-15e9-4f1b-81b2-d9575eec6a91": {
+      "ProjectGuid": "88ce42b2-15e9-4f1b-81b2-d9575eec6a91",
+      "DisplayName": "ZaszloArusAPI_EF",
+      "ColorIndex": 0
+    },
+    "2dbc02da-0779-4f10-903d-ecc2f4bdd6ea": {
+      "ProjectGuid": "2dbc02da-0779-4f10-903d-ecc2f4bdd6ea",
+      "DisplayName": "ZaszloArusAPI_EFTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
